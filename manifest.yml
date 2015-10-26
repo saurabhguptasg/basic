@@ -1,0 +1,7 @@
+---
+applications:
+- name: basic
+  memory: 256M
+  instances: 1
+  host: basic
+  path: ./target/basic-0.0.1-SNAPSHOT.jar
